@@ -1,4 +1,4 @@
 # akademik
 ## Projenin Amacı
 *Akademik Kişisel Sayfa Hazırlama*
-![resim]
+![resim](https://github.com/funda-catalbas/akademik/blob/main/resim.PNG)
